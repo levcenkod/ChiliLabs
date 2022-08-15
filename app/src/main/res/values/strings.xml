@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="gif">Here should be gif from API</string>
+    <string name="searchText">Search for a...</string>
+</resources>
